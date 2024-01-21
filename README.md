@@ -1,6 +1,6 @@
 # PLY
 
-PLY, which stands for "Python Lex-Yacc", is a set of tools for building lexical analyzers (lexers) and parsers (parsers) in Python. These tools are designed to provide developers with the capability to construct language processors, compilers, and interpreters. PLY is inspired by the Lex and Yacc tools used in the C programming language.
+PLY, which stands for "Python Lex-Yacc", is a set of tools for building lexical analyzers (lexers) and parsers in Python. These tools are designed to provide developers with the capability to construct language processors, compilers, and interpreters. PLY is inspired by the Lex and Yacc tools used in the C programming language.
 
 ## Use Cases
 
